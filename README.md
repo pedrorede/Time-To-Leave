@@ -40,3 +40,8 @@ https://www.powtoon.com/online-presentation/bXbd4fcWXpa/like-like/?mode=movie#/
 ou 
 
 https://www.youtube.com/watch?v=W-SwUwWrgGY&t=10s
+
+
+Link para o Blog: 
+
+http://darkdraw18.pythonanywhere.com/
