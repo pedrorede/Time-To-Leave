@@ -26,7 +26,10 @@ Desenvolvedor: João Pedro Ferreira Silva
 
 
 
-[print dark.pdf](https://github.com/pedrorede/my-first-blog/files/1063182/print.dark.pdf)
+![2017-06-09 5](https://user-images.githubusercontent.com/26657007/26967202-bce4de30-4cd3-11e7-87f5-16275a6e36c1.png)
+
+
+
 
 
 
