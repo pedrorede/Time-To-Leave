@@ -13,7 +13,7 @@ Um blog pelo qual foi criado para ajudar os amantes de Desenhos, o blog possui T
 # Mini Mundo
 
 
-Para o Administrador postar algo ele irá precisar criar um login e uma senha e então poderá ir nos post e postar os tutoriais e responder os comentários, já os usúarios para poder utilizar o site deverá informar um email, senha e támbem seu nome, então assim que a conta for criada ele poderá ver todos os tutoriais e comentar em cada publicação e com esse email que foi informadado ele poderá receber notificações que o administrador enviará quando for postar um novo tutorial, os tutorias poderão ser postados em imagens, vídeos ou textos, e só poderá ser postado se for o administrador e nele irá ter a data da publicação e o titulo, os comentários serão de acordo com a dúvida de cada usúario e serão respondidos pelo administrador.
+Para o Administrador postar algo ele irá precisar criar um login e uma senha e então poderá ir nos post e postar os tutoriais, já os usúarios para poder utilizar o site deverá informar um email e uma senha, então assim que a conta for criada ele poderá ver todos os tutoriais, e com esse email que foi informadado ele poderá receber notificações que o administrador enviará quando for postar um novo tutorial, os tutorias poderão ser postados em imagens ou textos, e só poderá ser postado se for o administrador e nele irá ter a data da publicação e o titulo.
 
 
 
@@ -26,6 +26,9 @@ Para o Administrador postar algo ele irá precisar criar um login e uma senha e 
 Está na primeira pois em nenhuma dessas entidades tem elementos que se repetem.
 Está na segunda por que os elementos estão dependendo de uma entidade e aqueles que tem mais de uma tem sua própia entidade.
 Está na terceira por que não há elementos que dependem, ou seja, são independentes.
+
+
+
 
 
 
