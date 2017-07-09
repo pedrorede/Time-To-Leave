@@ -22,6 +22,19 @@ Para o Administrador postar algo ele irá precisar criar um login e uma senha e 
 
 
 
+# Relatório 
+Está na primeira pois em nenhuma dessas entidades tem elementos que se repetem.
+Está na segunda por que os elementos estão dependendo de uma entidade e aqueles que tem mais de uma tem sua própia entidade.
+Está na terceira por que não há elementos que dependem, ou seja, são independentes.
+
+
+
+
+
+
+
+
+
 Desenvolvedor: João Pedro Ferreira Silva
 
 
