@@ -4,7 +4,7 @@ Bem vindo ao blog Darkdraw
 
 
 
-Um blog pelo qual foi criado para ajudar os amantes de Desenhos, o blog possui Tutoriais de diversos tipos, aqui suas dúvidas serão explicadas é conseguira entender o por que de cada passo, os tutoriais segue um roteiro bem simples, poderá entender bem rápido, é muito pratico então não terá muita dificuldade para seguir os passo a passo.
+Um blog pelo qual foi criado para ajudar os amantes de Desenhos, o blog possui Tutoriais de diversos tipos, aqui suas dúvidas serão explicadas é conseguira entender o por que de cada passo, os tutoriais segue um roteiro bem simples, poderá entender bem rápido, é muito pratico então não terá muita dificuldade para seguir os passo a passo, aqui poderá entender como fazer desde manga até um desenho realista, aqui terá tudo que precisar com apenar um clique.
 
 
 
