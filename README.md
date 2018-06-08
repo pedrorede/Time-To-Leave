@@ -80,3 +80,7 @@ Sempre deixar os arquivos em vários locais como nas nuvens.
 # XML Slides
 
 ![slidesxml](https://user-images.githubusercontent.com/31863030/41185010-9eb66504-6b5a-11e8-91b8-f7f489330a0d.png)
+
+# XML Conexoes
+
+![conexoesxml](https://user-images.githubusercontent.com/31863030/41185027-c0ae771e-6b5a-11e8-8fec-03860b8db3bd.png)
