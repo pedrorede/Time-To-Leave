@@ -1,0 +1,39 @@
+package com.example.lucas.myapplication;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.widget.Button;
+
+import com.example.lucas.myapplication.R;
+import android.content.Intent;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
+import android.widget.Toast;
+public class ferramentas extends AppCompatActivity{
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.ferramentas);
+        Button cetinha = (Button) findViewById(R.id.cetinha);
+        cetinha.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent cetinha = new Intent(ferramentas.this, ferramentas2.class);
+                startActivity(cetinha);
+            }
+        });
+        Button setavoltar2 = (Button) findViewById(R.id.setavoltar2);
+        setavoltar2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent setavoltar2 = new Intent(ferramentas.this, PI.class);
+                startActivity(setavoltar2);
+            }
+        });
+    }
+}
