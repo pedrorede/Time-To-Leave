@@ -76,3 +76,7 @@ Sempre deixar os arquivos em vários locais como nas nuvens.
 # XML Ferramentas2
 
 ![ferramentas2xml](https://user-images.githubusercontent.com/31863030/41184979-58fc4aa6-6b5a-11e8-8ae6-b938975d5f1d.png)
+
+# XML Slides
+
+![slidesxml](https://user-images.githubusercontent.com/31863030/41185010-9eb66504-6b5a-11e8-91b8-f7f489330a0d.png)
