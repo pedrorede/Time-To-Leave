@@ -63,3 +63,8 @@ Ter sempre equipamentos reservas para caso um estrague tenha outro em mãos.
 Comprar um sensor que se encaixe com as solicitações.
 Deixar prioridade em certas tarefas como fazer as conexões.
 Sempre deixar os arquivos em vários locais como nas nuvens.
+
+
+# XML Principal
+
+![principalxml](https://user-images.githubusercontent.com/31863030/41184887-c9eb5e88-6b59-11e8-9134-49d3fa97d28f.png)
