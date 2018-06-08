@@ -1,0 +1,23 @@
+package com.example.lucas.myapplication;
+
+import android.os.Bundle;
+import android.support.v4.view.ViewPager;
+import android.support.v7.app.AppCompatActivity;
+
+public class slides extends AppCompatActivity{
+    private ViewPager mPager;
+    private int[] perguntas = {R.layout.pergunta1, R.layout.pergunta2, R.layout.pergunta3, R.layout.pergunta4, R.layout.pergunta5, R.layout.pergunta6, R.layout.pergunta7, R.layout.pergunta8, R.layout.pergunta9, R.layout.pergunta10, R.layout.pergunta11, R.layout.pergunta12, R.layout.pergunta13, R.layout.pergunta14, R.layout.pergunta15, R.layout.pergunta16, R.layout.pergunta17, R.layout.pergunta18 };
+    private MpagerAdapter mpagerAdapter;
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.slides);
+
+        mPager = (ViewPager)findViewById(R.id.viewpage);
+        mpagerAdapter = new MpagerAdapter(perguntas,this);
+        mPager.setAdapter(mpagerAdapter);
+
+    }
+}
