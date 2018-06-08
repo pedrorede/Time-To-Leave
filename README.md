@@ -1,14 +1,23 @@
 # Time to Leave
 
 Equipe: Criscia de Oliveira; Lucas Calazans; João Pedro Ferreira.
+
 Nome: Leave to Time
+
 Tema/Problema: Checklist para a hora de sair de casa. Grande parte das pessoas quando saem de casa ficam pensando se esqueceram de fazer algo em casa, como por exemplo, apagar a luz.
+
 Objetivo: Criar um aplicativo que ajude as pessoas a lembrarem se  estão esquecendo de fazer alguma coisa quando estiverem saindo de casa.
+
 Recursos: HTML, CSS, Java, C, MySQL, Arduino.
+
 Justificativa: Não esquecer nada na hora de sair de casa.
+
 Iniciativas Similares:
+
 Remember the Milk - Montagem de listas de tarefas — com opções de agendamento, organização de eventos e compromissos, traz notificações por email, SMS ou mensagens instantâneas.
+
 Spotter - O uso pode variar entre detecção de movimentos, monitoramento de bebês, informar quando uma máquina de lavar para de funcionar ou ligar a luz de um quarto ao detectar movimento. 
+
 Clientes: População em geral.
 
 
