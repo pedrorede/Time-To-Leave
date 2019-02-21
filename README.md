@@ -1,6 +1,6 @@
 # Time to Leave
 
-Equipe: Criscia de Oliveira; Lucas Calazans; João Pedro Ferreira.
+Equipe: Lucas Calazans; João Pedro Ferreira.
 
 Nome: Leave to Time
 
