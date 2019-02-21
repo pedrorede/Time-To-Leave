@@ -1,6 +1,6 @@
 # Time to Leave
 
-Equipe: João Pedro Ferreira.
+Equipe: João Pedro Ferreira, Lucas Calazans
 
 Nome: Leave to Time
 
